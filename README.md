@@ -1,7 +1,8 @@
+![logo](https://github.com/ArchitKulshrestha/ArchitKulshrestha/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Archit Kulshrestha</h1>
 <h3 align="center">A passionate full-stack developer and chemical engineering student from India</h3>
 
-<img align="right"  alt="coading" width="400px" src="https://github.com/ArchitKulshrestha/ArchitKulshrestha/blob/main/-%20Find%20%26%20Share%20on%20GIPHY.gif">
+<img align="right"  alt="coading" width="380px" src="https://github.com/ArchitKulshrestha/ArchitKulshrestha/blob/main/-%20Find%20%26%20Share%20on%20GIPHY.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=architkulshrestha&label=Profile%20views&color=0e75b6&style=flat" alt="architkulshrestha" /> </p>
 
 - 🔭 I’m currently working on **chat application**
