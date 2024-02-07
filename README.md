@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Archit Kulshrestha</h1>
 <h3 align="center">A passionate full-stack developer and chemical engineering student from India</h3>
 
+<img align="right" alt="coading" width="400px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHVqdzV1dXFlb2M4dzBuMnUwNmJqcXR5M2lldDBwZjRuMDgyeWNzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=architkulshrestha&label=Profile%20views&color=0e75b6&style=flat" alt="architkulshrestha" /> </p>
 
 - 🔭 I’m currently working on **chat application**
